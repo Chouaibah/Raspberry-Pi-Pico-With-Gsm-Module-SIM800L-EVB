@@ -121,7 +121,3 @@ This repository contains example code and instructions for using a Raspberry Pi 
 5. Open a Pull Request describing your changes  
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
